@@ -4,13 +4,47 @@ Status:
 
 * first draft
 
+## Table of contents
+
+- [A Thought Experiment: CWRC in a Minimal Socio-technical System](#a-thought-experiment-cwrc-in-a-minimal-socio-technical-system)
+  - [Table of contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [What is a Digital Asset Management System](#what-is-a-digital-asset-management-system)
+  - [Why the thought experiment?](#why-the-thought-experiment)
+  - [The interplay between sustainability and user-experience](#the-interplay-between-sustainability-and-user-experience)
+  - [The guiding principles of the thought experiment](#the-guiding-principles-of-the-thought-experiment)
+  - [Deconstruction / reconstruction](#deconstruction--reconstruction)
+    - [Persistent storage](#persistent-storage)
+    - [Storage abstraction layer (Software layer interacting with the persistent storage)](#storage-abstraction-layer-software-layer-interacting-with-the-persistent-storage)
+    - [Application frameworks](#application-frameworks)
+  - [What a deconstructed model may look like](#what-a-deconstructed-model-may-look-like)
+    - [User experience](#user-experience)
+    - [How dynamic should the site be?](#how-dynamic-should-the-site-be)
+    - [RDBMS \& application frameworks](#rdbms--application-frameworks)
+    - [Access control](#access-control)
+    - [Batch changes](#batch-changes)
+    - [Processes: edit to view](#processes-edit-to-view)
+    - [Search index](#search-index)
+    - [FAIR and OCAP](#fair-and-ocap)
+    - [Metadata harvesting - OAI-PMH](#metadata-harvesting---oai-pmh)
+    - [The tension between sustainability and user experience?](#the-tension-between-sustainability-and-user-experience)
+  - [Principles for reconstruction](#principles-for-reconstruction)
+  - [Thought experiment #1: static site generation](#thought-experiment-1-static-site-generation)
+    - [Persistent storage](#persistent-storage-1)
+    - [Storage abstraction layer](#storage-abstraction-layer)
+    - [Application frameworks](#application-frameworks-1)
+  - [Words of caution](#words-of-caution)
+  - [Summary](#summary)
+  - [References](#references)
+
+
 ## Introduction
 
 Starting with a digital asset management system (aka repository), add in the socio-technical systems and processes that support the repository and blend with minimal computing concepts, how does this world look like? The following thought experiment deconstructs the typical repository software stack along with surrounding processes and then through the lens of minimal computing, tries to reconstitute the pieces. What does the outcome look like?
 
 User experience and sustainability are two of the main lens given special consideration during the thought experiment. The user experience lens includes not only the end-user but also the entire range of personnel involved in the socio-technical system from the content creators to those managing the processes and developing the software and system. The sustainability lens tries to help direct the thought experiment by motivating thoughts on how to enable the long-term viability of the mission, vision and values that motivated the socio-technical system. Together, user experience and sustainability help set guardrails on the limitations of the thought experiment and why the thought experiment might not be the best approach in certain contexts, partially due to the tensions between sustainability and user experience in a minimal environment.  
 
-## What is a Digitial Asset Management System
+## What is a Digital Asset Management System
 
 The context of this thought experiment: a digital asset management system (aka repository) as a software stack and a set of processes helping to manage the repository plus the people that create, manage and use the content. Let us not forget the people that manage, develop and fix the system, not just the software. The aforementioned pieces of technology, process and people constitute the socio-technical system.
 
@@ -30,7 +64,7 @@ One intention of the 3rd party modules in the software stack is to help the deve
 |-------------------------------|
 | Storage abstraction layer     |
 |-------------------------------|
-| Persistant storage            |
+| Persistent storage            |
 |-------------------------------|
 
 Figure #1 Generalized Repository Application Stack
@@ -86,7 +120,7 @@ In broad terms, a static site generator (like Wax or Jykell) can leverage a temp
 
 Next, we think through what the different components of a repository mean (from Figure #1).
 
-### Persistent Storage
+### Persistent storage
 
 What does a repository store?
 
@@ -105,7 +139,7 @@ In the aforementioned example repository software stacks, the above list is pers
 
 Aside from the original digital assets, the above information is persisted in one format and then transformed by a software stack upon each access to a web page display, search index or into a different format or manifestation via an API call in the software stack. Some examples of storage abstraction layers are ORMs (object relation mappings) including ActiveRecord for RDBMS access or ActiveStorage for accessing filesystem or object storage.
 
-### Application Frameworks
+### Application frameworks
 
 Heavyweight application frameworks such as Rails, Drupal/Symfony build upon the storage abstraction layers such as those supporting an RDMS. The frameworks offer convenient methods to model persistent content (read, write, update), control and route web requests, and create views (e.g., web pages to view and edit content). The frameworks are generalized to work in a wide range of use cases and are extensible via add-on modules. The frameworks help technical experts quickly build a dynamic application. Does this help or hinder long-term sustainability? Does the answer depend on the context of each project individually and their definition of sustainability and user experience?
 
