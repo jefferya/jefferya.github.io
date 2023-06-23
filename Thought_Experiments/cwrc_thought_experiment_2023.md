@@ -213,6 +213,8 @@ The gist of the socio-technical system: use a static site generation-inspired ap
 * LEAF-writer standalone to create/edit content within a Git repository
 * a URL-accessible storage service (e.g., S3 or the like) for the media/binary files that do not fit nicely in a Git Repository
 
+![System Diagram](images/PXL_20230623_145415853~3.jpg)
+
 ### Persistent storage
 
 The experiment views content creation as part of a peer review process akin to editorial work in publishing or code review in software development as opposed to instant production updates (or drafts) in other repositories. The textual content is added/updated/deleted from a Git repository with access controlled by the Git tool. Similarly, the media/binary content not suited for a Git repository is stored in an URL-accessible storage service (e.g., S3) with access controlled by the site. A downside, the two separate storage areas may cause additional effort to manage access (e.g., who has permission to create/update/delete). Also, link checking is required to verify the resource metadata remains linked to the content via active URIs.
