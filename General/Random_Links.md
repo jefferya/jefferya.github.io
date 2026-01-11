@@ -16,7 +16,7 @@ Is there a better grammar checker for VS Code? With Grammarly no longer supporte
 
 ## Ubuntu 24.04
 
-Ubuntu 24.04 & Intel MIPI Camara special setup
+Ubuntu 24.04 & Intel MIPI Camera special setup
 
 * <https://wiki.ubuntu.com/IntelMIPICamera#Ubuntu_LTS_24.04>
 
@@ -32,7 +32,6 @@ Ubuntu 24.04 & Intel MIPI Camara special setup
 ### Retrieval Augmented Generation (RAG)
 
 * <https://codingscape.com/blog/best-ai-tools-for-retrieval-augmented-generation-rag>
-
 
 ## Islandora
 

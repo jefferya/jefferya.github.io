@@ -2,10 +2,15 @@
 
 A collection of thought experiment and other writings. All should be considered early drafts or in some state of partial completion.
 
-Thought Experiments:
+## Table of contents <!-- omit from toc -->
 
-* [A Sustainability Thought Experiment: CWRC in a Minimal Socio-technical System](./Thought_Experiments/cwrc_thought_experiment_2023.md)
+* [Thought Experiments](#thought-experiments)
+* [Blog](#blog)
 
-General:
+## Thought Experiments
 
-* [General](./General/)
+* [Minimal computing and repositories](./Thought_Experiments/cwrc_thought_experiment_2023.md)
+
+## Blog
+
+* [Sustainability of data products in the age of generative AI](./Blogs/sustainability_in_the_age_of_generative_ai.md)
