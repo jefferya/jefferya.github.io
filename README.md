@@ -14,3 +14,8 @@ A collection of thought experiment and other writings. All should be considered 
 ## Blog
 
 * [Sustainability of data products in the age of generative AI](./Blogs/sustainability_in_the_age_of_generative_ai.md)
+
+## Other
+
+* [Links](./General/Random_Links.md)
+* [Globus](./General/globus_cli.md)
