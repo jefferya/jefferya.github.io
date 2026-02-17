@@ -182,4 +182,7 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 * https://betterstack.com/community/guides/monitoring/prometheus-python-metrics/
 * https://grafana.com/docs/loki/latest/get-started/quick-start/quick-start/
 * https://medium.com/@mdportnov/grafana-loki-vs-elk-stack-the-modern-logging-showdown-a85a4c3e0f34
-* 
+
+## Preservation
+
+* https://sciop.net/docs/quickstart/
