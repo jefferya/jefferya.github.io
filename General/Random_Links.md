@@ -76,6 +76,7 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 * https://git.gammaspectra.live/git/go-away
 * https://git.gammaspectra.live/git/go-away/wiki/Installation?__goaway_challenge=meta-refresh&__goaway_id=81423e19e15ec920a0895b760c451622
 * https://lunnova.dev/articles/crawlers-please-stop-destroying-the-commons/
+* https://dealing-with-bots.coar-repositories.org/
 
 ### AI & digital preservation
 
