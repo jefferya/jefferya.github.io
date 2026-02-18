@@ -70,6 +70,13 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 
 * https://www.youtube.com/watch?v=0xS68sl2D70
 
+### AI metadata extraction
+
+* https://www.zotero.org/groups/5627360/resident_project_-_ai_for_metadata_generation/items/YEAI7QS4/item-details
+* https://www.zotero.org/groups/5627360/resident_project_-_ai_for_metadata_generation
+* https://docs.google.com/document/d/1zcRreqwat3OWpI0bOjhxabKAAqfszJwJSfxsh44JvOA/edit?tab=t.0
+*
+
 ### Bots
 
 * https://gizmodo.com/cloudflare-ceos-frighteningly-likely-forecast-for-how-ai-will-ruin-the-internet-2000659436
@@ -78,6 +85,7 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 * https://lunnova.dev/articles/crawlers-please-stop-destroying-the-commons/
 * https://dealing-with-bots.coar-repositories.org/
 * https://wiki.lyrasis.org/display/cmtygp/Aggressive+AI+Harvesting+of+Digital+Resources
+* https://blog.lrvt.de/configuring-crowdsec-with-traefik/
 
 ### AI & digital preservation
 
@@ -91,11 +99,24 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 
 * https://uclpress.co.uk/book/navigating-artificial-intelligence-for-cultural-heritage-organisations/
 
+### AI Talks / papers
+
+* https://sites.google.com/ualberta.ca/ai-seminar/upcoming-seminars
+* https://www.ualberta.ca/en/folio/2024/10/deep-learning-methods-lose-their-ability-to-learn-over-time.html
+
 ## UofA Policy
 
 * https://docs.google.com/document/d/1WFWL8oPLXwLetQ4-urYKzskHtVO1pPTbAMSDiS4QADY/edit?tab=t.0
 * https://drive.google.com/file/d/1LxWOIIQPFNto-EfeNJjtjqiaxN1e8ui_/view
-
+* https://www.ualberta.ca/en/human-resources-health-safety-environment/media-library/faculty-and-staff/people-strategy/people-strategy-english.pdf
+* https://www.ualberta.ca/en/campus-operations-services/space-leasing/space-management/space-management-policy.html
+* https://www.youtube.com/watch?v=FAMpRLDnQ14
+* https://www.ualberta.ca/en/university-services-operations-finance/reports-plans/built-for-purpose.html
+* https://www.ualberta.ca/en/events/facilities-operations/2024-10-30-built-for-purpose-town-hall.html?utm_medium=email&utm_campaign=October%20Newsletter&utm_content=October%20Newsletter+CID_f64be3522029f04d53d334fe2bcc4786&utm_source=cm_cssh&utm_term=town%20halls
+* https://www.ualberta.ca/en/provost/funding/awards/fearless-innovator-award.html
+* https://www.ualberta.ca/en/provost/media-library/funding/awards/fearless-innovator-award.pdf
+* https://www.ualberta.ca/en/provost/funding/awards/fearless-innovator-award.html
+*
 
 ## Indigenous Ways of Knowing
 
@@ -104,6 +125,11 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 * https://search.library.ualberta.ca/discovery/fulldisplay?context=L&vid=01UOA_INST:UOA&search_scope=MyInst_and_CI&tab=Everything&docid=alma991043733404709116
 * https://www-degruyterbrill-com.login.ezproxy.library.ualberta.ca/document/doi/10.1515/9780889775527-002/html
 * https://www.marmatproject.org/lexicons/
+* https://books.google.ca/books?id=ZMP21NgGlx8C&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false
+
+### Indigenous & AI
+
+* https://cifar.ca/cifarnews/2024/06/18/indigenous-perspectives-in-ai/
 
 ## Conferences
 
@@ -129,12 +155,16 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 * https://docs.google.com/document/d/1GFjlqNeqFUloj0do-4uaejqpsGFAtBgnkumvEHJgRfc/edit?tab=t.fu3pv9hep47p
 * https://notebooklm.google.com/notebook/0f96793c-d1ec-46de-a90f-3becf9e743e7?pli=1&original_referer=https:%2F%2Faccounts.google.com%23&original_referer=https:%2F%2Faccounts.google.com%23
 
+### Access Conference
+
+* https://accesslibcon.sched.com/jefferyantoniuk
+
 ## UAL
 
 ### Airflow
 
 * https://airflow.apache.org/docs/apache-airflow/stable/tutorial/pipeline.html
-* 
+*
 
 ## DRAC
 
@@ -146,7 +176,7 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 
 * https://www.youtube.com/watch?v=mGKwDaRFc7w
 
-### DRI Connect 
+### DRI Connect
 
 * https://drive.google.com/drive/folders/1ukNfQNIFizg0XnTvcjRqXk6D6L-XAXvp
 
@@ -164,7 +194,7 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 
 * https://lucianofrizzera.com/projects
 
-### Handwritting recognition 
+### Handwritting recognition
 
 * https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/Congress_Letter/congress_letter_image1.jpg
 * https://github.com/allenai/olmocr
@@ -176,6 +206,17 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 ### Islandora
 
 * https://flvc.libguides.com/FL-Islandora/Metadata
+* https://www.youtube.com/watch?v=qzmOclWR85k
+* https://docs.google.com/spreadsheets/d/1Ud7SmXn49arOdBbKEAc121cPiKyMD9LLSNR0xzd6mqg/edit?gid=0#gid=0
+* https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit?gid=0#gid=0
+* https://compass.fivecolleges.edu/islandora/object/mtholyoke:138694?search_api_fulltext=snowstorm
+* https://mjordan.github.io/islandora_workbench_docs/generating_csv_files/#exporting-image-video-etc-files-along-with-csv-data
+* https://www.cni.org/wp-content/uploads/2025/01/Lehigh-University-CNI-2024-Joe-Corall.pdf
+*
+
+### Drupal
+
+* https://ecaguide.org/eca/extend/modules/
 
 ## Observability
 
@@ -186,3 +227,62 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 ## Preservation
 
 * https://sciop.net/docs/quickstart/
+
+## Process management
+
+* https://riskacademy.blog/my-favourite-risk-management-books/
+* https://www.jonobacon.com/books/artofcommunity/
+* https://codeforthought.buzzsprout.com/1326658/episodes/14470422-en-open-source-projects-communities-chris-holdgraf-from-2i2c
+* https://codeforthought.buzzsprout.com/1326658/episodes/14441267-en-make-science-reproducible-again-rima-maria-rahal-peter-steinbachja
+
+### UX
+
+* https://www.nngroup.com/articles/personas-jobs-be-done/
+*
+
+### Cyber Attack
+
+* https://cdn.sanity.io/files/v5dwkion/production/99206a2d1e9f07b35712b78f7d75fbb09560c08d.pdf
+*
+
+### Cloud versus local
+
+* https://levelup.gitconnected.com/how-we-reduced-our-annual-server-costs-by-80-from-1m-to-200k-by-moving-away-from-aws-2b98cbd21b46
+
+### Impact
+
+* https://reuse.diglib.org/
+
+## Programming
+
+### XQuery
+
+* https://books.google.de/books?id=wZ0bCwAAQBAJ&pg=PA360&dq=#v=onepage&q&f=false
+* https://stackoverflow.com/questions/12485969/xquery-removing-newline-return-character-from-end-of-a-string-stored-in-a-varia
+
+### Python
+
+* https://www.geeksforgeeks.org/python/tips-to-maximize-your-python-code-performance/
+* https://python.plainenglish.io/stop-using-python-dictionaries-like-this-157c53bc93c2
+
+### Metadata
+
+* https://www.loc.gov/marc/relators/relaterm.html
+
+### Data Governance
+
+* https://www.sciencedirect.com/science/article/abs/pii/S1471772723000039?via%3Dihub
+
+### CARE FAIR
+
+* https://www.nature.com/articles/s41597-021-00892-0
+
+### JSON
+
+* https://jmespath.org/examples.html
+* https://jmespath.org/specification.html#grammar
+
+### GitHub Actions
+
+* https://www.freecodecamp.org/news/how-to-run-github-actions-locally/#:~:text=With%20act%20CLI%2C%20you%20do%20not%20need%20to,CLI.%20How%20to%20use%20the%20act%20CLI%20tool.
+*
