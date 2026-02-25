@@ -88,6 +88,12 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 * https://wiki.lyrasis.org/display/cmtygp/Aggressive+AI+Harvesting+of+Digital+Resources
 * https://blog.lrvt.de/configuring-crowdsec-with-traefik/
 
+#### JA4 Browser Fingerprinting
+
+* https://docs.google.com/presentation/d/e/2PACX-1vQZBdxVqihPOx-KAf1I-nhdiMAv6iu6R-PH-Yrye_OoafnDqMOfhjHVFh2WQ5gzsaXuK5O25Uq-bJxa/pub?start=false&loop=false&delayms=3000&slide=id.g3ca7e63fbd6_0_0
+* https://github.com/mdellabitta/ja4lab
+* https://ja4db.com/
+
 ### AI & digital preservation
 
 * https://www.dpconline.org/blog/dp-and-artificial-intelligence-a-4-point-plan
