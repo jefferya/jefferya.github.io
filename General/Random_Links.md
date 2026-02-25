@@ -161,10 +161,19 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 
 ## UAL
 
+### AVP Aviary
+
+* https://www.aviaryplatform.com/api/v1/documentation
+* https://coda.aviaryplatform.com/public-api-documentation-14
+* https://github.com/orgs/WeAreAVP/repositories
+* https://coda.aviaryplatform.com/getting-started-153
+* https://aviaryplatform.featurebase.app/roadmap
+* https://aviaryplatform.featurebase.app/
+* https://coda.aviaryplatform.com/development-log-3
+
 ### Airflow
 
 * https://airflow.apache.org/docs/apache-airflow/stable/tutorial/pipeline.html
-*
 
 ## DRAC
 
