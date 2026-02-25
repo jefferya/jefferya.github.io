@@ -79,6 +79,7 @@ Ubuntu 24.04 & Intel MIPI Camera special setup
 
 ### Bots
 
+* https://wiki.lyrasis.org/display/cmtygp/Solutions+Showcase+Series
 * https://gizmodo.com/cloudflare-ceos-frighteningly-likely-forecast-for-how-ai-will-ruin-the-internet-2000659436
 * https://git.gammaspectra.live/git/go-away
 * https://git.gammaspectra.live/git/go-away/wiki/Installation?__goaway_challenge=meta-refresh&__goaway_id=81423e19e15ec920a0895b760c451622
