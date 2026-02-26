@@ -129,6 +129,7 @@ What are the options?
 * Legal Protection?
   * In 2023 there was no strong legal precedent
   * [Wikipedia:Large language models and copyright - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models_and_copyright)
+  * [2026 UKSG webinar: The Open Access–AI Conundrum: does free to read mean free to train? ](https://www.uksg.org/events/free-uksg-webinar-the-open-access-ai-conundrum-does-free-to-read-mean-free-to-train/)
 
 ## AI / LLM tools interacting with DH sites
 
