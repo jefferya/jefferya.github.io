@@ -24,3 +24,4 @@ Summary:
 * Review environments to aid in testing
 * Automated security detection testing with processes to create pull requests updating third party libraries
 * Defense in depth (e.g., introduce hardship when bots access a site; disaster recovery)
+  * For example: [Cloudflare - Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
