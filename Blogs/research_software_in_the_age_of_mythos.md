@@ -25,3 +25,7 @@ Summary:
 * Automated security detection testing with processes to create pull requests updating third party libraries
 * Defense in depth (e.g., introduce hardship when bots access a site; disaster recovery)
   * For example: [Cloudflare - Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
+
+Impact:
+
+Time that would otherwise be spent moving research forward is being increasingly allocated to steward the research software and data in responsible ways. An increasing amount of time is being spent trying not to give the Digital Research alliance of Canada cybersecurity team a reason to shut down the cloud based research software. If the projects from SANS are true, the slowdown in research output will increase for the next few years.
