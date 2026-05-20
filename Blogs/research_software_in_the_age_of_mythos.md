@@ -8,11 +8,16 @@ In the [“Evolution of LLM-based Offensive Capabilities 2025/6” (pg. 11/12)](
 
 ![“Evolution of LLM-based Offensive Capabilities 2025/6” (pg. 11/12)](./support/research_software_in_the_age_of_mythos/Screenshot%20from%202026-04-17%2012-47-47.png)
 
-The growing Gen AI analysis and detection capabilities are associated with an increase in vulnerabilities [“AI Vulnerability Storm” (pg. 8)](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf). This means that the software and imported third-party libraries/modules requires an increased level of awareness and updating/patching as part of the stewardship of the research process and data.
-
-With the growing ability of Gen AI to not only detect vulnerabilities but also write code to exploit the vulnerabilities, this means that the time between [vulnerability detection and exploit is decreasing (pg. 8)](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf). Awareness and response timeframes are decreasing due to the [Increased security patch cadence as indicated in the SANS Critical Advisory: BugBusters - AI Vulnerability Discovery Hype versus Reality](https://www.youtube.com/live/X0aik3eCTdU?t=2401s) and so-called "AI vulnerability storm".
+The growing Gen AI analysis and detection capabilities are associated with an increase in vulnerabilities.
+[The security patch cadence is increasing as indicated in the SANS Critical Advisory: BugBusters - AI Vulnerability Discovery Hype versus Reality](https://www.youtube.com/live/X0aik3eCTdU?t=2401s) and so-called [“AI Vulnerability Storm” (pg. 8)](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf).
 
 ![AI vulnerability storm, SANS Critical Advisory: BugBusters - AI Vulnerability Discovery Hype versus Reality, April 16, 2026 https://www.youtube.com/live/X0aik3eCTdU?t=2401s](./support/research_software_in_the_age_of_mythos/Screenshot%20from%202026-04-16%2016-43-54.png)
+
+Software and third-party libraries/modules will require an increased level updating/patching as part of the stewardship of the research process and data.
+
+With the growing ability of Gen AI to not only detect vulnerabilities but also write code to exploit the vulnerabilities, this means that the time between [vulnerability detection and exploit is decreasing (pg. 8)](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf). The Zero Day Clock <https://zerodayclock.com/> is a graphical representation of the need to improve awareness of vulnerabilities and decrease response timeframes. From the 
+
+![From vulnerability to exploitation - https://zerodayclock.com](./support/research_software_in_the_age_of_mythos/Screenshot%20from%202026-05-20%2009-58-05.png)
 
 Given the stewardship requirement built into research grants, how can the limited resources be allocated to both properly steward the research software/data while continuing to move forward the research? Competing priorities.
 
