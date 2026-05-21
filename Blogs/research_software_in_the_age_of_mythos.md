@@ -2,7 +2,7 @@
 
 Draft 2026-04-08
 
-Research software powers many Canadian research endeavors. What happens if there is a lack of high qualified people to maintain and/or sustain the software? Here within, a position is taken that Gen AI is altering the the level of urgency for discussions on maintaining and sustaining Canadian research software. CANARIE in the days before the Digital Research Alliance of Canada offered a funding stream that help maintain, sustain, and enhance in small ways Canadian research software. At present, there is no funding stream available for maintaining/sustaining research software. Why is this more of a concern in the age of Gen AI?
+Research software powers many Canadian research endeavors. What happens if there is a lack of high qualified people to maintain and/or sustain the software? Here within, a position is taken that Gen AI is altering the level of urgency for discussions on maintaining and sustaining Canadian research software. CANARIE in the days before the Digital Research Alliance of Canada offered a funding stream that help maintain, sustain, and enhance in small ways Canadian research software. At present, there is no funding stream available for maintaining/sustaining research software. Why is this more of a concern in the age of Gen AI?
 
 In the [“Evolution of LLM-based Offensive Capabilities 2025/6” (pg. 11/12)](https://labs.cloudsecurityalliance.org/wp-connt/uploads/2026/04/mythosreadyv95.pdf), one can see Gen AI has grown abilities to not just analyze and detect vulnerabilities in software but now in April 2026, early trials in also writing exploit code for the found vulnerabilities.
 
@@ -15,7 +15,7 @@ The growing Gen AI analysis and detection capabilities are associated with an in
 
 Software and third-party libraries/modules will require an increased level updating/patching as part of the stewardship of the research process and data.
 
-With the growing ability of Gen AI to not only detect vulnerabilities but also write code to exploit the vulnerabilities, this means that the time between [vulnerability detection and exploit is decreasing (pg. 8)](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf). The Zero Day Clock <https://zerodayclock.com/> is a graphical representation of the need to improve awareness of vulnerabilities and decrease response timeframes. From the 
+With the growing ability of Gen AI to not only detect vulnerabilities but also write code to exploit the vulnerabilities, this means that the time between [vulnerability detection and exploit is decreasing (pg. 8)](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv95.pdf). The Zero Day Clock <https://zerodayclock.com/> is a graphical representation of the need to improve awareness of vulnerabilities and decrease response timeframes:
 
 ![From vulnerability to exploitation - https://zerodayclock.com](./support/research_software_in_the_age_of_mythos/Screenshot%20from%202026-05-20%2009-58-05.png)
 
